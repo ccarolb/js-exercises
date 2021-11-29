@@ -4,6 +4,8 @@
 
 [2 - Cinema](https://github.com/ccarolb/exercises/tree/main#2---cinema)
 
+[2 - Abecedário](https://github.com/ccarolb/exercises/tree/main#3---abecedario)
+
 
 
 ## 1 - Mobilapp
@@ -66,3 +68,44 @@ A saída deverá ser sempre uma das três opções abaixo:
 ACESSO NEGADO caso a pessoa não possa ter acesso ao filme
 INTEIRA caso a pessoa tenha acesso ao filme mediante apresentação de ingresso de inteira
 MEIA caso a pessoa tenha acesso ao filme mediante apresentação de ingresso de meia entrada
+
+## 3 - Abecedário
+
+Uma brincadeira muito comum entre crianças é o ABC. Nessa brincadeira, uma letra é sorteada a cada rodada e cada criança que está brincando deve escrever uma palvra de uma determinada categoria que comece com a letra que foi sorteada.
+
+Por exemplo, caso a letra sorteada seja a letra "M" e o tema seja "comida" as crianças podem falar coisas como:
+
+melancia
+
+miojo
+
+maçã
+
+mamão
+
+e todas as respostas acima estariam corretas, pois começam com a letra M.
+
+Porém caso uma criança falasse "Arroz", por exemplo, essa criança teria perdido.
+
+O seu papel é fazer um programa que calcule quantas crianças perderam na rodada.
+
+A entrada terá sempre duas variáveis:
+
+letra, que contém a letra que foi sorteada para essa rodada (sempre minúscula e sem acentos)
+
+palavras, que será sempre um array de strings contendo as palavras que cada uma das crianças escreveu (sempre minúsculas e sem acento)
+
+	[
+	  {
+	    "letra": "m",
+	    "palavras": [
+	      "mamao",
+	      "maca",
+	      "melao",
+	      "melancia",
+	      "laranja"
+	    ]
+	  }
+	]
+
+Imprima na tela apenas um número inteiro contendo a quantidade de crianças que PERDERAM nessa rodada.
