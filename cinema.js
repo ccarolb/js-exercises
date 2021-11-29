@@ -1,7 +1,7 @@
 function solucao(obj) {
 
-    if ((obj.temIngresso === true && obj.estaComPais === true) || (obj.temIngresso === true && obj.idade >= obj.censura)) {
-        if (obj.temCarteirinha === true || obj.idade < 18) {
+    if ((obj.temIngresso && obj.estaComPais) || (obj.temIngresso && obj.idade >= obj.censura)) {
+        if (obj.temCarteirinha || obj.idade < 18) {
             console.log("MEIA")
         } else {
             console.log("INTEIRA")
@@ -13,9 +13,9 @@ function solucao(obj) {
 }
 
 solucao({
-    temIngresso: false,
+    temIngresso: true,
     idade: 19,
-    temCarteirinha: false,
+    temCarteirinha: true,
     censura: 18,
     estaComPais: false
 })
