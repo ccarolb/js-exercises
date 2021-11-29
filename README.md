@@ -1,6 +1,6 @@
 # Exercícios variados de JS
 
-[1 - Mobilapp](https://github.com/ccarolb/exercises/tree/main#3---mobilapp)
+[1 - Mobilapp](https://github.com/ccarolb/exercises/tree/main#1---mobilapp)
 
 [2 - Cinema](https://github.com/ccarolb/exercises/tree/main#2---cinema)
 
