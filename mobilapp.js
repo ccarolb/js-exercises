@@ -46,13 +46,12 @@ function solucao(tempo, distancia) {
     if (tempo > 60) {
         if (distancia < 100) {
             viagemLonga = distancia * 200
-            console.log(viagemLonga)
         } else {
             viagemLonga = distancia * 150
-            console.log(viagemLonga)
         }
+        console.log(viagemLonga)
     }
 
 }
 
-solucao(100, 10)
+solucao(100, 120)
