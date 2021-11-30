@@ -109,3 +109,12 @@ palavras, que será sempre um array de strings contendo as palavras que cada uma
 	]
 
 Imprima na tela apenas um número inteiro contendo a quantidade de crianças que PERDERAM nessa rodada.
+
+## 4 - Maskify
+
+Geralmente quando você compra algo, é pedido seu número do cartão de crédito, ou então número de celular, etc. Porém como alguém pode olhar por cima de seu ombro, não queremos que essa informação seja mostrada na tela. Ao invés disso, mascaramos essa informação.
+
+Sua tarefa é escrever uma função maskify, que irá transformar todos os caractéres de uma string, com exceção dos quatro últimos, em "#".
+Por exemplo:
+
+	maskify("4556364607935616") == "############5616"
