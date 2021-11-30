@@ -1,10 +1,12 @@
 # Exercícios variados de JS
 
-[1 - Mobilapp](https://github.com/ccarolb/exercises/tree/main#1---mobilapp)
+[1 - Mobilapp](https://github.com/ccarolb/exercises#1---mobilapp)
 
-[2 - Cinema](https://github.com/ccarolb/exercises/tree/main#2---cinema)
+[2 - Cinema](https://github.com/ccarolb/exercises#2---cinema)
 
-[3 - Abecedário](https://github.com/ccarolb/exercises/tree/main#3---abecedário)
+[3 - Abecedário](https://github.com/ccarolb/exercises#3---abecedário)
+
+[4 - Maskify](https://github.com/ccarolb/exercises#4---maskify)
 
 
 
