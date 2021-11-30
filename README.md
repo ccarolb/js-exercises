@@ -8,6 +8,8 @@
 
 [4 - Maskify](https://github.com/ccarolb/exercises#4---maskify)
 
+[5 - Alphabet](https://github.com/ccarolb/exercises#5---alphabet)
+
 
 
 ## 1 - Mobilapp
@@ -120,3 +122,15 @@ Sua tarefa é escrever uma função maskify, que irá transformar todos os carac
 Por exemplo:
 
 	maskify("4556364607935616") == "############5616"
+
+## 5 - Alphabet
+
+Dada uma string, substitua todas as letras dessa string pela sua posição no alfabeto.
+Se houver algo na string que não seja uma letra, ignore e não retorne:
+
+	"a" = 1, "b" = 2, etc.
+
+Exemplo:
+alphabetPosition("The sunset sets at twelve o' clock.")
+
+Deve retornar "20 8 5 19 21 14 19 5 20 19 5 20 19 1 20 20 23 5 12 22 5 15 3 12 15 3 11" (como uma string)
