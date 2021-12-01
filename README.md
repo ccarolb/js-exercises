@@ -10,6 +10,8 @@
 
 [5 - Alphabet](https://github.com/ccarolb/exercises#5---alphabet)
 
+[6 - Filtrando listas](https://github.com/ccarolb/js-exercises#6---filtrando-listas)
+
 
 
 ## 1 - Mobilapp
