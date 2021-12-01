@@ -140,3 +140,18 @@ Deve retornar "20 8 5 19 21 14 19 5 20 19 5 20 19 1 20 20 23 5 12 22 5 15 3 12 1
 ## 6 - Filtrando listas
 
 Crie uma função que receba uma lista de inteiros positivos e strings, e retorne uma nova lista sem as strings.
+
+## 7 - Quadrado perfeito
+
+Dado um número inteiro, determine se esse número é um quadrado perfeito:
+
+Na matemática, um número quadrado ou quadrado perfeito é um inteiro que é o quadrado de outro inteiro; em outras palavras, é o produto de um inteiro por ele mesmo.
+
+Exemplo:
+
+	-1  =>  false
+	0  =>  true
+	3  =>  false
+	4  =>  true
+	25  =>  true
+	26  =>  false
