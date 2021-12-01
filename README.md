@@ -12,6 +12,8 @@
 
 [6 - Filtrando listas](https://github.com/ccarolb/js-exercises#6---filtrando-listas)
 
+[7 - Quadrado perfeito](https://github.com/ccarolb/js-exercises#7---quadrado-perfeito)
+
 
 
 ## 1 - Mobilapp
